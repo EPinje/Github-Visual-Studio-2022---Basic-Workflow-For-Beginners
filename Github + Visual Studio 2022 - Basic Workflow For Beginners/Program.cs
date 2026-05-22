@@ -11,6 +11,7 @@ namespace Github___Visual_Studio_2022___Basic_Workflow_For_Beginners
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Trying a commit from VS");
         }
     }
 }
